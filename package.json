@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "description": "Selenium WebDriver tests using Mocha with Mochawesome reports",
     "scripts": {
-        "tugas_sesi9": "mocha tugas/sesi9.js --recursive --timeout 60000"
+        "tugas_sesi9": "mocha tugas/sesi9.js --recursive --timeout 60000",
+        "tugas_sesi10": "mocha tugas/sesi10.js --recursive --timeout 60000"
     },
     "dependencies": {
         "selenium-webdriver": "^4.17.0"
